@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color_changing_react/static/css/main.9d1ec09f.css",
+    "main.js": "/color_changing_react/static/js/main.5a032731.js",
+    "static/js/787.8f2cee80.chunk.js": "/color_changing_react/static/js/787.8f2cee80.chunk.js",
+    "index.html": "/color_changing_react/index.html",
+    "main.9d1ec09f.css.map": "/color_changing_react/static/css/main.9d1ec09f.css.map",
+    "main.5a032731.js.map": "/color_changing_react/static/js/main.5a032731.js.map",
+    "787.8f2cee80.chunk.js.map": "/color_changing_react/static/js/787.8f2cee80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1ec09f.css",
+    "static/js/main.5a032731.js"
+  ]
+}
